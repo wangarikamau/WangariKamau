@@ -6,7 +6,7 @@
 
 ## Nairobi, Kenya
 
-I am a data analyst specializing in health and public sector data, with a focus on transforming complex datasets into actionable insights that support data-driven decision-making in healthcare systems.
+I am a data analyst specializing in health and public-sector data, with a focus on transforming complex datasets into actionable insights to support data-driven decision-making in healthcare systems.
 
 My work simulates real-world workflows in NGOs and government health systems, including data quality assessment, reporting analysis, and performance monitoring using DHIS2-style datasets.
 
@@ -18,7 +18,7 @@ My work simulates real-world workflows in NGOs and government health systems, in
 - **Other**: Predictive modeling, Data storytelling, Health information systems
 
 ## Featured Projects.
-1. [Sierra Leone Health Facility Reporting & Data Quality Dashboard](https://github.com/wangarikamau/Sierra-Leone-Health-Reporting-Analysis)
+### [Sierra Leone Health Facility Reporting & Data Quality Dashboard](https://github.com/wangarikamau/Sierra-Leone-Health-Reporting-Analysis)
 **DHIS2-based public health reporting analysis**
 
 - Analyzed health facility reporting performance using real DHIS2 exports.
@@ -28,7 +28,7 @@ My work simulates real-world workflows in NGOs and government health systems, in
 
 **Tools**: Power BI (DAX), Power Query, DHIS2 data
 
-2. [Kenya Immunization Retention Analysis (2000-2024)](https://github.com/wangarikamau/Kenya-Immunization-Retention-Analysis-2000-2024-)
+### [Kenya Immunization Retention Analysis (2000-2024)](https://github.com/wangarikamau/Kenya-Immunization-Retention-Analysis-2000-2024-)
 **Public Health | Immunization | Power BI Dashboard**
 
 - Analyzed 24 years of Kenya’s immunization data (WHO/UNICEF) to assess retention and dropout rates across antigens.
@@ -38,7 +38,7 @@ My work simulates real-world workflows in NGOs and government health systems, in
 
 **Tools**: Power BI, DAX, Power Query
 
-3. [Healthcare Dataset Cleaning & Visualization](https://github.com/wangarikamau/Healthcare-dataset-cleaning-and-visualization)
+### [Healthcare Dataset Cleaning & Visualization](https://github.com/wangarikamau/Healthcare-dataset-cleaning-and-visualization)
 **Healthcare Data Cleaning & EDA**
 
 - Performed end-to-end data cleaning and standardization on a real healthcare dataset.
@@ -47,7 +47,7 @@ My work simulates real-world workflows in NGOs and government health systems, in
 
 **Tools**: Python (pandas, Matplotlib, Seaborn)
 
-4. [Diabetes Prediction Model](https://github.com/wangarikamau/Diabetes_Prediction)
+### [Diabetes Prediction Model](https://github.com/wangarikamau/Diabetes_Prediction)
 **Machine Learning for Public Health**
 
 - Built a predictive model to identify diabetes risk using patient health data.
